@@ -13,5 +13,5 @@ jobs:
       run: npm install
 
     - name: Run test
-      run: npm test
+      run: npx jest
 
